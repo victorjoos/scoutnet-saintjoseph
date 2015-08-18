@@ -1,0 +1,26 @@
+body {
+  padding-top: 50px;
+  padding-bottom: 20px;
+}
+
+.jumbotron {
+  color: #FFEBEE;
+  padding:30px;
+  background-image: url(fire-shadow.jpg);
+  background-repeat: no-repeat;
+  background-position: top center;
+}
+
+.jumbotron h2 {
+  padding:0px;
+  margin-top: 0px;
+  margin-bottom: 10px;
+  border: 0px;
+}
+
+.jumbotron p {
+  margin-top: 0px;
+  margin-bottom: 0px;
+  padding: 0px;
+  border: 0px;
+}

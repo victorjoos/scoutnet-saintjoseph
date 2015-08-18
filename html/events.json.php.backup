@@ -1,0 +1,29 @@
+{
+    "success": 1,
+    "result": [
+        {
+            "id": "1",
+            "title": "Rentrée Scouts et Louveteaux",
+            "url": "",
+            "class": "event-success",
+            "start": "1410678000000",
+            "end":   "1410710400000"
+        },
+        {
+            "id": "2",
+            "title": "Réunion",
+            "url": "",
+            "class": "event-success",
+            "start": "1411887600000",
+            "end":   "1411920000000"
+        },
+        {
+            "id": "2",
+            "title": "Réunion",
+            "url": "",
+            "class": "event-success",
+            "start": "1413097200000",
+            "end":   "1413129600000"
+        }
+    ]
+}
